@@ -1,4 +1,4 @@
---[[ Type Function will print the type of a given variable ]]--
+--[[ Type Function will print the type of a given variable. ]]--
 a, b, c, d, e = 2, true, print, nil, "XYZ"
 
 print(type(a))  --num

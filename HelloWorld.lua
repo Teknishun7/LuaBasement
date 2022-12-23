@@ -1,2 +1,2 @@
--- Mandatory Hello World
+--[[ Mandatory Hello World. ]]--
 print("Hello World\nfrom Teknishun")
